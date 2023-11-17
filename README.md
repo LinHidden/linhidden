@@ -7,7 +7,7 @@
 - 👀 I've been developing applications, tinkering with machine learning models, and creating data analysis tools using Python.  
   
 
-- 🎓 I'm still learning the ropes, but I'm really into natural language processing, computer vision, and deep learning.  
+- 🎓 I'm still learning the ropes, but I'm really digging natural language processing, computer vision, and deep learning.  
   
 
 <br/>  
