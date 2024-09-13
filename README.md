@@ -1,44 +1,48 @@
-<h1 align="center">Hi there, I'm Lin 👋</h1>
-
-<h3 align="center">A passionate web/full-stack developer based in Russia</h3>
+<h3 align="center">Web/Full-Stack Developer from Russia</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/age-20-blue?style=flat-square" alt="age">
-  <img src="https://img.shields.io/badge/focus-web%2Ffull--stack%20development-orange?style=flat-square" alt="focus">
-  <img src="https://img.shields.io/badge/os-Arch%20Linux%2FManjaro-green?style=flat-square" alt="os">
+  <img src="https://img.shields.io/badge/Age-20-1f7a8c?style=for-the-badge" alt="age">
+  <img src="https://img.shields.io/badge/Focus-Web%2FFull--Stack-ff6f61?style=for-the-badge" alt="focus">
+  <img src="https://img.shields.io/badge/OS-Arch%20Linux%2FManjaro-4caf50?style=for-the-badge" alt="os">
 </p>
 
 <p align="center">
-  As a versatile developer, I have a strong focus on web and full-stack development. I'm proficient in a wide range of technologies, from backend languages and frameworks to frontend libraries and tools. My goal is to create seamless, user-friendly web applications that deliver exceptional experiences.
+  Versatile developer focusing on seamless, user-friendly web applications.
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h4 align="center">Languages and Tools:</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir">
-  <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" alt="Elixir">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 </p>
 
-<h3 align="center">Additional Skills:</h3>
+<h4 align="center">Additional Skills:</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/LLM--dev-blueviolet?style=for-the-badge" alt="LLM Development">
-  <img src="https://img.shields.io/badge/System%20Administration-9cf?style=for-the-badge" alt="System Administration">
-  <img src="https://img.shields.io/badge/Database%20Administration-success?style=for-the-badge" alt="Database Administration">
-  <img src="https://img.shields.io/badge/Arch%20Linux-blue?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
-  <img src="https://img.shields.io/badge/Manjaro-blue?style=for-the-badge&logo=manjaro&logoColor=white" alt="Manjaro Linux">
-  <img src="https://img.shields.io/badge/Hardware-critical?style=for-the-badge" alt="Hardware">
+  <img src="https://img.shields.io/badge/LLM--dev-8E44AD?style=for-the-badge" alt="LLM Development">
+  <img src="https://img.shields.io/badge/System%20Admin-9E9E9E?style=for-the-badge" alt="System Administration">
+  <img src="https://img.shields.io/badge/Database%20Admin-388E3C?style=for-the-badge" alt="Database Administration">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux">
+  <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="Manjaro Linux">
+  <img src="https://img.shields.io/badge/Hardware-2E4053?style=for-the-badge" alt="Hardware">
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<h4 align="center">Connect:</h4>
 <p align="center">
-  <a href="https://t.me/l_hid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="your_telegram_username" height="30" width="40" /></a>
-  <a href="https://github.com/snake-makes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="your-github-org" height="30" width="40" /></a>
-  <a href="https://t.me/runouts" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="your_telegram_group" height="30" width="40" /></a>
+  <a href="https://t.me/l_hid" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://github.com/snake-makes" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://t.me/runouts" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram%20Group-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Group">
+  </a>
 </p>
